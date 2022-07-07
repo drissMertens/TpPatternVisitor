@@ -1,0 +1,15 @@
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\bin\Debug\net6.0\TpPatternVisitor.exe
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\bin\Debug\net6.0\TpPatternVisitor.deps.json
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\bin\Debug\net6.0\TpPatternVisitor.runtimeconfig.json
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\bin\Debug\net6.0\TpPatternVisitor.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\bin\Debug\net6.0\TpPatternVisitor.pdb
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.csproj.AssemblyReference.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.AssemblyInfoInputs.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.AssemblyInfo.cs
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.csproj.CoreCompileInputs.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\refint\TpPatternVisitor.dll
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.pdb
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\TpPatternVisitor.genruntimeconfig.cache
+C:\Users\driss.chennaoui\source\repos\TpPatternVisitor\TpPatternVisitor\obj\Debug\net6.0\ref\TpPatternVisitor.dll
